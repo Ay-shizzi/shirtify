@@ -4,7 +4,7 @@ import shirt3 from "../assets/images/shirt3.jpg";
 import shirt4 from "../assets/images/shirt4.jpg";
 import shirt5 from "../assets/images/shirt5.jpg";
 import shirt6 from "../assets/images/shirt6.jpg";
-import shirt7 from "../assets/images/shirt7.png";
+import shirt7 from "../assets/images/shirt7.jpg";
 import shirt8 from "../assets/images/shirt8.jpg";
 import shirt9 from "../assets/images/shirt9.jpg";
 import shirt10 from "../assets/images/shirt10.jpg";
@@ -99,7 +99,7 @@ const productData = [
   {
     id: 7,
     image: shirt7,
-    title: "Gyptian Shirt",
+    title: "Polo zip Shirt",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
     category: "Shirt",
